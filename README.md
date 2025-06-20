@@ -1,96 +1,110 @@
-# 👋 Hi there, I'm Shivaji Jadhav
+<!-- Banner Image (Optional) -->
+<p align="center">
+  <img src="https://i.imgur.com/Uo7zP2b.png" alt="Data Analyst Banner" width="90%" />
+</p>
 
-### 🎯 Data Analyst | Engineer | Power BI • SQL • Python • Excel • Tableau
+<h1 align="center">👋 Hi, I'm Shivaji Jadhav</h1>
+<h3 align="center">🎯 Data Analyst | Engineer | Power BI • SQL • Python • Excel • Tableau</h3>
 
 ---
 
 ## 🧑‍💻 About Me
 
-- 👨‍🎓 Recent Engineering Graduate (2021–2024)
-- 📊 Passionate about turning raw data into meaningful insights
-- 🧰 Skilled in: Power BI, SQL, Excel, Tableau, Python (pandas), Statistics
-- 🚀 Currently working on real-world data analytics projects and dashboards
-- 📈 Strong interest in business intelligence, automation, and visual storytelling
+- 🎓 Recent Engineering Graduate (2021–2024)
+- 📊 Passionate about transforming data into actionable insights
+- 🛠 Skilled in **Power BI**, **SQL**, **Excel**, **Tableau**, **Python (pandas)**, and **Statistics**
+- 🚀 Currently working on real-world analytics dashboards and data automation projects
+- 💡 Interested in business intelligence, storytelling with data, and building scalable reports
 
 ---
 
 ## 🧰 Tools & Technologies
 
-- **Data Analysis:** SQL, Python (pandas), Excel, Statistics  
-- **Visualization:** Power BI, Tableau  
-- **Other Tools:** GitHub, VS Code, Jupyter Notebook
+<p align="left">
+  <img src="https://img.icons8.com/color/48/sql.png" alt="SQL" title="SQL"/>
+  <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" alt="Excel" title="Excel"/>
+  <img src="https://img.icons8.com/color/48/power-bi.png" alt="Power BI" title="Power BI"/>
+  <img src="https://img.icons8.com/color/48/python--v1.png" alt="Python" title="Python"/>
+  <img src="https://img.icons8.com/color/48/tableau-software.png" alt="Tableau" title="Tableau"/>
+  <img src="https://img.icons8.com/external-flat-icons-inmotus-design/48/external-statistics-analytics-flat-icons-inmotus-design.png" alt="Statistics" title="Statistics"/>
+</p>
 
 ---
 
 ## 📚 I’m Currently Learning
 
-- Advanced SQL (joins, CTEs, window functions)
-- Power BI (DAX, modeling, storytelling)
-- Python for data analysis (pandas, matplotlib)
-- Tableau dashboards for business use cases
+- 🔍 Advanced SQL (joins, CTEs, window functions)
+- 📈 Power BI DAX formulas and performance optimization
+- 🐍 Python for data analysis and automation
+- 📊 Tableau for storytelling dashboards
 
 ---
 
 ## 🤝 I’m Looking to Collaborate On
 
-- Data analytics case studies and real-world datasets  
-- Dashboard projects (Power BI, Tableau, Excel)  
-- Open-source data visualization and storytelling  
+- Real-world datasets and dashboard projects  
+- Business case studies and KPI-driven visuals  
+- Power BI + SQL + Excel-based analytics projects  
 
 ---
 
 ## 🙏 I’m Looking for Help With
 
-- Creating job-ready portfolio projects  
-- Structuring and optimizing SQL queries  
-- Enhancing Power BI dashboards and interactivity  
-- Interview preparation and mock data problems
+- Building a professional analytics portfolio  
+- Improving dashboard storytelling and interactivity  
+- Practice interviews and scenario-based analytics challenges  
 
 ---
 
 ## 💬 Ask Me About
 
-- Power BI dashboard building  
-- Excel reports and data cleaning  
-- SQL query writing  
-- Python basics for data analysis  
-- How to start a data analyst career  
+- Power BI dashboard development  
+- SQL data querying & logic  
+- Excel for business reports and automation  
+- Python (pandas) for cleaning and EDA  
+- Career tips for beginner data analysts  
 
 ---
 
 ## 📝 I Regularly Write Articles On
 
-- 📊 Data Visualization & Dashboarding  
-- 🧠 SQL Techniques & Optimization  
-- 📈 Excel Tips for Analysts  
-📍 Connect with me on [LinkedIn](https://www.linkedin.com/in/shivaji-jadhav-b0b565289) for posts and articles!
+- 📊 Data Visualization (Power BI, Tableau)  
+- 🧠 SQL techniques & optimization  
+- 📈 Excel tips & tricks  
+📍 Follow my articles and posts on [LinkedIn](https://www.linkedin.com/in/shivaji-jadhav-b0b565289)
 
 ---
 
 ## 📈 Know About My Experiences
 
-- 🔹 Built Power BI dashboards on sales, targets, and admissions  
-- 🔹 Analyzed counselor-wise performance using SQL & Excel  
-- 🔹 Automated reporting and visuals with Python & Power BI  
-- 🔹 Participated in college-level data challenges and team projects  
+- ✔️ Built Power BI dashboards for admissions and sales targets  
+- ✔️ Analyzed counselor-wise performance using SQL & Excel  
+- ✔️ Created Tableau story dashboards for business insights  
+- ✔️ Automated reports and analytics with Python & Excel  
+- ✔️ Participated in college data analysis competitions  
 
 ---
 
 ## 📫 How to Reach Me
 
 - 📧 Email: shivajijadhav9255@gmail.com  
-- 💼 LinkedIn: [shivaji-jadhav](https://www.linkedin.com/in/shivaji-jadhav-b0b565289)  
+- 💼 LinkedIn: [linkedin.com/in/shivaji-jadhav-b0b565289](https://www.linkedin.com/in/shivaji-jadhav-b0b565289)  
 - 🌐 Portfolio: *(Add your portfolio link here)*
 
 ---
 
 ## 🎉 Fun Fact
 
-Even when I’m relaxing, I end up analyzing YouTube or cricket stats — data is everywhere! 📊⚡
+Even when I'm relaxing, I end up analyzing cricket scores, YouTube stats, or Netflix watch time. 😄📊
 
 ---
 
-### 🔗 Thank you for visiting my profile — let’s connect, collaborate, and grow in the world of data!
+<p align="center">
+  <img src="https://i.imgur.com/zC2EtP2.png" width="70%" alt="Thanks for visiting" />
+</p>
+
+<p align="center">Let's connect and grow together in the world of data! 💡</p>
+
 
 
 
