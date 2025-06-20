@@ -1,107 +1,96 @@
-<!-- Profile Banner -->
-<p align="center">
-  <img src="https://i.imgur.com/7QzVYZz.png" alt="Data Analyst Banner" width="100%">
-</p>
+# 👋 Hi there, I'm Shivaji Jadhav
 
-<h1 align="center">Hi 👋, I'm Shivaji Jadhav</h1>
-<h3 align="center">Data Analyst | Engineer | Turning Data into Decisions</h3>
+### 🎯 Data Analyst | Engineer | Power BI • SQL • Python • Excel • Tableau
 
 ---
 
 ## 🧑‍💻 About Me
 
-- 🎓 I'm a Data Analyst Engineer with a background in **Engineering** (2021–2024)
-- 🛠 Skilled in **SQL**, **Power BI**, **Python**, **Excel**, **Tableau**, and **Statistics**
-- 📊 I build dashboards, extract insights, and automate data workflows
-- 🧠 I love solving real-world problems using data and storytelling
-- 🚀 Currently building live analytics projects and growing my portfolio
+- 👨‍🎓 Recent Engineering Graduate (2021–2024)
+- 📊 Passionate about turning raw data into meaningful insights
+- 🧰 Skilled in: Power BI, SQL, Excel, Tableau, Python (pandas), Statistics
+- 🚀 Currently working on real-world data analytics projects and dashboards
+- 📈 Strong interest in business intelligence, automation, and visual storytelling
 
 ---
 
-## 🧰 Skills & Tools
+## 🧰 Tools & Technologies
 
-<p align="left">
-  <img src="https://img.shields.io/badge/SQL-3178C6?style=for-the-badge&logo=sql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
-  <img src="https://img.shields.io/badge/Statistics-004080?style=for-the-badge&logo=bookstack&logoColor=white" />
-</p>
+- **Data Analysis:** SQL, Python (pandas), Excel, Statistics  
+- **Visualization:** Power BI, Tableau  
+- **Other Tools:** GitHub, VS Code, Jupyter Notebook
 
 ---
 
 ## 📚 I’m Currently Learning
 
-- Advanced SQL (CTEs, Window Functions, Query Optimization)
-- DAX for Power BI
-- Python for data analysis and automation (Pandas, Matplotlib)
-- Tableau Storytelling Dashboards
+- Advanced SQL (joins, CTEs, window functions)
+- Power BI (DAX, modeling, storytelling)
+- Python for data analysis (pandas, matplotlib)
+- Tableau dashboards for business use cases
 
 ---
 
 ## 🤝 I’m Looking to Collaborate On
 
-- Real-world data analytics projects (Power BI, SQL, Excel)
-- Business dashboards & case studies
-- Open-source analytics challenges
+- Data analytics case studies and real-world datasets  
+- Dashboard projects (Power BI, Tableau, Excel)  
+- Open-source data visualization and storytelling  
 
 ---
 
 ## 🙏 I’m Looking for Help With
 
-- Structuring a professional data analyst portfolio
-- Improving storytelling and dashboard UI/UX
-- Preparing for analyst interviews with practical projects
+- Creating job-ready portfolio projects  
+- Structuring and optimizing SQL queries  
+- Enhancing Power BI dashboards and interactivity  
+- Interview preparation and mock data problems
 
 ---
 
 ## 💬 Ask Me About
 
-- Power BI dashboard design
-- SQL query logic and database design
-- Excel for business reports
-- Python for data cleaning and automation
+- Power BI dashboard building  
+- Excel reports and data cleaning  
+- SQL query writing  
+- Python basics for data analysis  
+- How to start a data analyst career  
 
 ---
 
 ## 📝 I Regularly Write Articles On
 
-- Data visualization best practices  
-- Power BI and Excel tips  
-- SQL techniques for analysts  
-📄 Find my posts on [LinkedIn](https://www.linkedin.com/in/shivajijadhav)
+- 📊 Data Visualization & Dashboarding  
+- 🧠 SQL Techniques & Optimization  
+- 📈 Excel Tips for Analysts  
+📍 Connect with me on [LinkedIn](https://www.linkedin.com/in/shivaji-jadhav-b0b565289) for posts and articles!
 
 ---
 
 ## 📈 Know About My Experiences
 
-- ✅ Built Power BI dashboards for admission and sales data  
-- ✅ Wrote SQL queries for target vs achievement metrics  
-- ✅ Cleaned and transformed messy datasets in Excel  
-- ✅ Built Tableau visuals for KPI dashboards and storyboards  
-- ✅ Participated in college-level data case competitions
+- 🔹 Built Power BI dashboards on sales, targets, and admissions  
+- 🔹 Analyzed counselor-wise performance using SQL & Excel  
+- 🔹 Automated reporting and visuals with Python & Power BI  
+- 🔹 Participated in college-level data challenges and team projects  
 
 ---
 
 ## 📫 How to Reach Me
 
-- 📧 [shivajijadhav9255@gmail.com](mailto:shivajijadhav9255@gmail.com)  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/shivajijadhav)  
-- 🌐 [Portfolio Website](https://your-portfolio-link.com) *(add your real link)*
+- 📧 Email: shivajijadhav9255@gmail.com  
+- 💼 LinkedIn: [shivaji-jadhav](https://www.linkedin.com/in/shivaji-jadhav-b0b565289)  
+- 🌐 Portfolio: *(Add your portfolio link here)*
 
 ---
 
 ## 🎉 Fun Fact
 
-I once created a Power BI dashboard just to track how much tea I drink while studying ☕📊
+Even when I’m relaxing, I end up analyzing YouTube or cricket stats — data is everywhere! 📊⚡
 
 ---
 
-<p align="center">
-  <img src="https://i.imgur.com/nG6GAYm.png" alt="Thanks for visiting" width="70%">
-</p>
+### 🔗 Thank you for visiting my profile — let’s connect, collaborate, and grow in the world of data!
 
-<p align="center">💻 Let's turn data into decisions!</p>
 
 
