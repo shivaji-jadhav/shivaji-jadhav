@@ -37,7 +37,7 @@ Here are some of my key projects built using real-world business logic and moder
 |--------|-------------|-------|
 | [🍕 Pizza Sales SQL Project](https://github.com/shivaji-jadhav/Pizza-Sales-SQL-Project) | Analyzed pizza sales using SQL to uncover top products, peak hours, and revenue trends. | SQL, MySQL |
 | [🛒 Shopify Sales Dashboard](https://github.com/shivaji-jadhav/shopify-sales-dashboard) | Visualized Shopify e-commerce sales performance including revenue, categories, and profit. | Power BI, Excel |
-| [🏬 Madhav Sales Dashboard](https://github.com/shivaji-jadhav/madhav-sales-dashboard) | Monthly counselor-wise sales and achievement dashboard for real-time tracking. | Power BI |
+| [🏬 Madhav Sales Dashboard](https://github.com/shivaji-jadhav/madhav-sales-dashboard) | Monthly counselor-wise sales and achievement dashboard for real-time tracking. | Excel,Power BI |
 | [📈 Excel Business Intelligence Dashboard](https://github.com/shivaji-jadhav/Excel_Business_Intelligence_Dashboard) | Designed an Excel BI solution with slicers, pivot charts, macros, and KPI blocks. | Excel, VBA |
 
 ---
@@ -47,7 +47,7 @@ Here are some of my key projects built using real-world business logic and moder
 | Project | Description | Tools |
 |--------|-------------|-------|
 | [💳 Credit Card Dashboard](https://github.com/shivaji-jadhav/Credit_Card_Dashboard) | Customer and revenue segmentation dashboard with interactive filters. | Power BI |
-| [📋 Sales Management System](https://github.com/shivaji-jadhav/Sales_Management_System_Project) | Strategic sales reporting presentation with KPI alignment and funnel planning. | PowerPoint, Excel |
+| [📋 Sales Management System](https://github.com/shivaji-jadhav/Sales_Management_System_Project) | Strategic sales reporting presentation with KPI alignment and funnel planning. |SQL, MySQL,PowerPoint, Excel |
 
 > 🔍 All projects demonstrate practical business use cases with real-world data thinking.
 
@@ -74,7 +74,6 @@ Here are some of my key projects built using real-world business logic and moder
 ## 💬 Quote I Live By
 
 > “Without data, you’re just another person with an opinion.”  
-> — W. Edwards Deming
 
 ---
 
