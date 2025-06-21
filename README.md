@@ -36,10 +36,10 @@ Currently building a project portfolio based on real-world business scenarios �
 
 | Project | Description | Tools |
 |--------|-------------|-------|
-| [🍕 Pizza Sales Analysis](https://github.com/yourusername/sql-pizza-sales-analysis) | SQL-driven analysis of pizza orders, peak hours, and product performance. | SQL, MySQL |
-| [🛒 Shopify Sales Report](https://github.com/yourusername/shopify-sales-dashboard) | Complete sales dashboard and metrics using e-commerce order data. | Power BI, Excel |
-| [🏬 Madhav Sales Dashboard](https://github.com/yourusername/madhav-sales-powerbi) | Monthly revenue and counselor-wise sales dashboard built in Power BI. | Power BI |
-| [📈 Excel BI Dashboard](https://github.com/yourusername/excel-business-intelligence-dashboard) | Interactive Excel dashboard using slicers, PivotTables, macros, and KPIs. | Excel, VBA |
+| [🍕 Pizza Sales Analysis]([https://github.com/yourusername/sql-pizza-sales-analysis](https://github.com/shivaji-jadhav/Pizza-Sales-SQL-Project)) | SQL-driven analysis of pizza orders, peak hours, and product performance. | SQL, MySQL |
+| [🛒 Shopify Sales Report]([https://github.com/yourusername/shopify-sales-dashboard](https://github.com/shivaji-jadhav/shopify-sales-dashboard)) | Complete sales dashboard and metrics using e-commerce order data. | Power BI, Excel |
+| [🏬 Madhav Sales Dashboard]([https://github.com/yourusername/madhav-sales-powerbi](https://github.com/shivaji-jadhav/madhav-sales-dashboard)) | Monthly revenue and counselor-wise sales dashboard built in Power BI. | Power BI |
+| [📈 Excel BI Dashboard]([https://github.com/yourusername/excel-business-intelligence-dashboard](https://github.com/shivaji-jadhav/Excel_Business_Intelligence_Dashboard)) | Interactive Excel dashboard using slicers, PivotTables, macros, and KPIs. | Excel, VBA |
 
 ---
 
@@ -47,9 +47,9 @@ Currently building a project portfolio based on real-world business scenarios �
 
 | Project | Description | Tools |
 |--------|-------------|-------|
-| [💳 Credit Card Financial Report](https://github.com/yourusername/credit-card-financial-report) | Analyzing interest income, customer segments, and revenue using dashboards. | Power BI, Excel |
+| [💳 Credit Card Financial Report]([https://github.com/yourusername/credit-card-financial-report](https://github.com/shivaji-jadhav/Credit_Card_Dashboard)) | Analyzing interest income, customer segments, and revenue using dashboards. | Power BI, Excel |
 | [📋 Target vs Achievement Report](https://github.com/yourusername/powerbi-target-vs-achievement) | Region-wise and counselor-wise monthly performance vs targets. | Power BI, DAX |
-| [🔎 Credit Card Customer Dashboard](https://github.com/yourusername/credit-card-dashboard) | Customer-wise KPIs, transaction trends, and segment breakdown. | Power BI, Excel |
+| [🔎 Credit Card Customer Dashboard]([https://github.com/yourusername/credit-card-dashboard](https://github.com/shivaji-jadhav/Credit_Card_Dashboard)) | Customer-wise KPIs, transaction trends, and segment breakdown. | Power BI, Excel |
 
 > 🎯 All projects are built using real-world logic and are focused on solving business problems using data.
 
