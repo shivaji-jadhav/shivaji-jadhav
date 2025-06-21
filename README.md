@@ -21,7 +21,6 @@
   <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" alt="Excel" title="Excel" />
   <img src="https://img.icons8.com/color/48/python--v1.png" alt="Python" title="Python" />
   <img src="https://img.icons8.com/color/48/tableau-software.png" alt="Tableau" title="Tableau" />
-  <img src="https://img.icons8.com/external-flat-icons-inmotus-design/48/external-statistics-analytics-flat-icons-inmotus-design.png" alt="Statistics" title="Statistics" />
 </p>
 
 ---
