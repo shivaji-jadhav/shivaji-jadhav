@@ -1,98 +1,89 @@
 # 👋 Hi, I'm Shivaji Jadhav
 
-**Aspiring Data Analyst | SQL • Power BI • Excel • Python (Pandas)**  
-Transforming raw data into insights, reports, and dashboards that empower better decision-making.
+**🎯 Aspiring Data Analyst | SQL • Power BI • Excel • Python (Pandas)**  
+Turning raw data into actionable business insights through clean analytics, compelling dashboards, and performance-focused reporting.
 
 ---
 
-## 🧭 About Me
+## 🧠 About Me
 
-I’m a data enthusiast transitioning into the analytics field with a strong foundation in:
-- 🔍 Business intelligence & KPIs
-- 📊 Dashboard development
-- 🧮 Data querying using SQL
-- 💼 Reporting automation in Excel & Power BI
-
-Currently building a project portfolio based on real-world business scenarios — from credit card analysis to Shopify e-commerce sales and monthly targets.
+- 💡 Detail-oriented data enthusiast with a strong foundation in analytics and BI tools
+- 📊 Passionate about creating meaningful dashboards and writing optimized SQL queries
+- 📚 Continuously learning with hands-on projects using real-world datasets
+- 🚀 Actively seeking opportunities to apply analytical thinking in real business environments
 
 ---
 
 ## 🧰 Technical Skills
 
-| Category     | Tools/Technologies                               |
-|--------------|--------------------------------------------------|
-| 💾 Databases | MySQL, PostgreSQL, SQLite                        |
-| 🔎 Languages | SQL, Python (Pandas, NumPy), Excel formulas      |
-| 📊 BI Tools  | Power BI, Excel, Tableau (Basics)                |
-| ⚙️ ETL & Prep| Power Query, Excel, Jupyter                      |
-| 🧠 Analysis  | KPI Modeling, Time Series, Target vs Actual      |
-| 💻 Tools     | Git, GitHub, VS Code, DBeaver                    |
+| Area              | Tools & Technologies                                |
+|-------------------|-----------------------------------------------------|
+| 💾 Databases       | MySQL, PostgreSQL, SQLite                           |
+| 📈 Visualization   | Power BI, Excel (Charts, Pivot Tables, Macros)      |
+| 💻 Programming     | SQL, Python (Pandas, NumPy), Excel Formulas         |
+| ⚙️ Data Cleaning    | Power Query, Excel, Python                         |
+| 📊 Reporting       | KPI Dashboards, EDA, Business Reports               |
+| 🔧 Other Tools     | Git, GitHub, VS Code, Jupyter                       |
 
 ---
 
-## 💼 Featured Projects
+## 🚀 Featured Projects
 
-### 📂 SQL & Data Analytics
+Here are some of my key projects built using real-world business logic and modern data tools:
+
+### 📂 SQL & BI Analytics
 
 | Project | Description | Tools |
 |--------|-------------|-------|
-| [🍕 Pizza Sales Analysis]([https://github.com/yourusername/sql-pizza-sales-analysis](https://github.com/shivaji-jadhav/Pizza-Sales-SQL-Project)) | SQL-driven analysis of pizza orders, peak hours, and product performance. | SQL, MySQL |
-| [🛒 Shopify Sales Report]([https://github.com/yourusername/shopify-sales-dashboard](https://github.com/shivaji-jadhav/shopify-sales-dashboard)) | Complete sales dashboard and metrics using e-commerce order data. | Power BI, Excel |
-| [🏬 Madhav Sales Dashboard]([https://github.com/yourusername/madhav-sales-powerbi](https://github.com/shivaji-jadhav/madhav-sales-dashboard)) | Monthly revenue and counselor-wise sales dashboard built in Power BI. | Power BI |
-| [📈 Excel BI Dashboard]([https://github.com/yourusername/excel-business-intelligence-dashboard](https://github.com/shivaji-jadhav/Excel_Business_Intelligence_Dashboard)) | Interactive Excel dashboard using slicers, PivotTables, macros, and KPIs. | Excel, VBA |
+| [🍕 Pizza Sales SQL Project](https://github.com/shivaji-jadhav/Pizza-Sales-SQL-Project) | Analyzed pizza sales using SQL to uncover top products, peak hours, and revenue trends. | SQL, MySQL |
+| [🛒 Shopify Sales Dashboard](https://github.com/shivaji-jadhav/shopify-sales-dashboard) | Visualized Shopify e-commerce sales performance including revenue, categories, and profit. | Power BI, Excel |
+| [🏬 Madhav Sales Dashboard](https://github.com/shivaji-jadhav/madhav-sales-dashboard) | Monthly counselor-wise sales and achievement dashboard for real-time tracking. | Power BI |
+| [📈 Excel Business Intelligence Dashboard](https://github.com/shivaji-jadhav/Excel_Business_Intelligence_Dashboard) | Designed an Excel BI solution with slicers, pivot charts, macros, and KPI blocks. | Excel, VBA |
 
 ---
 
-### 📂 Financial & Business Reporting
+### 📂 Financial & Reporting Projects
 
 | Project | Description | Tools |
 |--------|-------------|-------|
-| [💳 Credit Card Financial Report]([https://github.com/yourusername/credit-card-financial-report](https://github.com/shivaji-jadhav/Credit_Card_Dashboard)) | Analyzing interest income, customer segments, and revenue using dashboards. | Power BI, Excel |
-| [📋 Target vs Achievement Report](https://github.com/yourusername/powerbi-target-vs-achievement) | Region-wise and counselor-wise monthly performance vs targets. | Power BI, DAX |
-| [🔎 Credit Card Customer Dashboard]([https://github.com/yourusername/credit-card-dashboard](https://github.com/shivaji-jadhav/Credit_Card_Dashboard)) | Customer-wise KPIs, transaction trends, and segment breakdown. | Power BI, Excel |
+| [💳 Credit Card Dashboard](https://github.com/shivaji-jadhav/Credit_Card_Dashboard) | Customer and revenue segmentation dashboard with interactive filters. | Power BI |
+| [📋 Sales Management System](https://github.com/shivaji-jadhav/Sales_Management_System_Project) | Strategic sales reporting presentation with KPI alignment and funnel planning. | PowerPoint, Excel |
 
-> 🎯 All projects are built using real-world logic and are focused on solving business problems using data.
+> 🔍 All projects demonstrate practical business use cases with real-world data thinking.
 
 ---
 
-## 📫 Contact Me
+## 📫 Let's Connect
 
 - 🔗 [LinkedIn – Shivaji Jadhav](https://www.linkedin.com/in/shivaji-jadhav-b0b565289)
 - 📧 Email: shivajijadhav9255@gmail.com
 - 🌐 Portfolio Website: *Coming Soon via GitHub Pages*
 
----
-
-## 🎯 Career Goals
-
-- 📈 Land a data analyst or BI reporting role
-- 🧠 Work on high-impact business analysis projects
-- 📊 Grow expertise in SQL, Power BI, and Excel
-- 🌍 Collaborate on open-source or freelance data initiatives
 
 ---
 
-## 🏁 Currently Working On
+## 🎯 Career Focus
 
-- Publishing GitHub Pages portfolio
-- Building Power BI dashboards with live SQL connectors
-- Practicing analytics case studies and problem-solving challenges
+- Build decision-ready dashboards for business teams  
+- Use SQL and BI tools to uncover revenue opportunities  
+- Contribute to data-informed growth strategies  
+- Continue expanding expertise in Power BI, SQL, and Python
 
 ---
 
-## 💬 Personal Quote
+## 💬 Quote I Live By
 
-> “Without data, you're just another person with an opinion.”  
+> “Without data, you’re just another person with an opinion.”  
+> — W. Edwards Deming
 
 ---
 
 ## 🔖 GitHub Highlights
 
-- ✅ Clean folder structures  
-- ✅ Detailed README files in each project  
-- ✅ Project screenshots (dashboard previews)  
-- ✅ SQL-first approach with dashboard integration  
-- ✅ Strong emphasis on real business insights
+- ✅ Professionally documented project repositories  
+- ✅ Dashboard screenshots and clear README structure  
+- ✅ SQL-first logic with business application  
+- ✅ Tools: Power BI, Excel, SQL, GitHub, Python (learning phase)
 
 ---
 
